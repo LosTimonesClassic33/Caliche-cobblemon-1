@@ -1,0 +1,44 @@
+[00:36:10] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[00:36:11] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+[00:36:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Caliche-cobblemon-1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:36:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:36:17] [main/INFO]: No existing world data, creating new world
+[00:36:18] [main/INFO]: Loaded 1290 recipes
+[00:36:18] [main/INFO]: Loaded 1399 advancements
+[00:36:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:36:19] [Server thread/INFO]: Loading properties
+[00:36:19] [Server thread/INFO]: Default game type: SURVIVAL
+[00:36:19] [Server thread/INFO]: Generating keypair
+[00:36:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:36:19] [Server thread/INFO]: Using epoll channel type
+[00:36:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:36:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:36:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:36:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:36:19] [Server thread/INFO]: Preparing level "world"
+[00:36:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:36:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:36:27] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[00:36:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:36:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:36:28] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[00:36:29] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[00:36:29] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[00:36:30] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[00:36:30] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[00:36:31] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[00:36:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[00:36:32] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[00:36:32] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[00:36:32] [Server thread/INFO]: Time elapsed: 6335 ms
+[00:36:32] [Server thread/INFO]: Done (13.639s)! For help, type "help"
+[00:36:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:36:32] [Server thread/INFO]: home/codespace/.python/current/bin/python "/workspaces/Caliche-cobblemon-1/msx (2).py"<--[HERE]
+[00:38:18] [Server thread/INFO]: Demianv23[/127.59.105.131:53509] logged in with entity id 35 at (87.5, 75.0, -5.5)
+[00:38:18] [Server thread/INFO]: Demianv23 joined the game
+[00:53:45] [Server thread/INFO]: Demianv23 has made the advancement [Monster Hunter]
+[00:54:23] [Server thread/INFO]: Demianv23 was slain by Zombie
